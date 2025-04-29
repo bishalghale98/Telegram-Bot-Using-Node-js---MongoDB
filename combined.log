@@ -1,0 +1,43 @@
+{"level":"info","message":"✅ MongoDB Connected!","timestamp":"2025-04-29T16:19:27.686Z"}
+{"level":"info","message":"✅ MongoDB Connected!","timestamp":"2025-04-29T16:20:59.214Z"}
+{"level":"info","message":"✅ MongoDB Connected!","timestamp":"2025-04-29T16:21:13.628Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:27:43.137Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:27:44.203Z"}
+{"level":"info","message":"✅ MongoDB Connected!","timestamp":"2025-04-29T16:27:45.552Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:27:45.561Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:28:44.679Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:28:44.688Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:28:44.690Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:28:51.429Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:28:51.441Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:28:51.443Z"}
+{"level":"info","message":"Received message from Bishal_ghale: /start","timestamp":"2025-04-29T16:28:53.490Z"}
+{"level":"info","message":"Received message from Bishal_ghale: /add:test:123","timestamp":"2025-04-29T16:29:01.065Z"}
+{"level":"info","message":"Received message from Bishal_ghale: /add","timestamp":"2025-04-29T16:29:08.153Z"}
+{"level":"info","message":"Received message from Bishal_ghale: /add:bishal:123","timestamp":"2025-04-29T16:29:24.824Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:34:03.546Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:34:03.551Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:34:03.552Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:34:04.654Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:34:04.658Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:34:04.660Z"}
+{"level":"info","message":"📩 Received: [Bishal_ghale] /start","timestamp":"2025-04-29T16:34:10.343Z"}
+{"level":"info","message":"📩 Received: [Bishal_ghale] /add test:123","timestamp":"2025-04-29T16:34:27.962Z"}
+{"level":"info","message":"Added: test by Bishal_ghale","timestamp":"2025-04-29T16:34:28.866Z"}
+{"level":"info","message":"📩 Received: [Bishal_ghale] test","timestamp":"2025-04-29T16:34:33.805Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:39:05.712Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:39:05.716Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:39:05.717Z"}
+{"level":"info","message":"📩 Received: [Bishal_ghale] test","timestamp":"2025-04-29T16:39:12.698Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:39:27.494Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:39:27.501Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:39:27.503Z"}
+{"level":"info","message":"📩 Received: [Bishal_ghale] test","timestamp":"2025-04-29T16:39:29.433Z"}
+{"level":"info","message":"📩 Received: [Bishal_ghale] /listall","timestamp":"2025-04-29T16:46:13.686Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:47:00.284Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:47:00.291Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:47:00.293Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-29T16:47:08.983Z"}
+{"level":"info","message":"Telegram bot is running and listening for messages...","timestamp":"2025-04-29T16:47:08.990Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-04-29T16:47:08.992Z"}
+{"level":"info","message":"📩 Received: [Bishal_ghale] /listall","timestamp":"2025-04-29T16:47:16.360Z"}

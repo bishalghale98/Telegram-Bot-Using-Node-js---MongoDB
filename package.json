@@ -1,0 +1,26 @@
+{
+    "name": "telegram-bot-mern",
+    "version": "1.0.0",
+    "description": "Telegram bot with MongoDB integration",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js",
+      "test": "jest",
+      "lint": "eslint ."
+    },
+    "dependencies": {
+      "axios": "^1.6.2",
+      "dotenv": "^16.3.1",
+      "express": "^4.18.2",
+      "mongoose": "^8.0.3",
+      "node-telegram-bot-api": "^0.61.0",
+      "winston": "^3.11.0"
+    },
+    "devDependencies": {
+      "eslint": "^8.56.0",
+      "jest": "^29.7.0",
+      "nodemon": "^3.0.2",
+      "supertest": "^6.3.3"
+    }
+  }
